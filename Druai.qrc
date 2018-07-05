@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/camera_start.png</file>
+        <file>images/camera_stop.png</file>
+        <file>images/camera_pause.png</file>
+        <file>images/EXIT2.png</file>
+        <file>images/fileopen.png</file>
+        <file>images/Redo.png</file>
+        <file>images/Help.png</file>
+        <file>images/Save2.png</file>
+        <file>images/Save_As.png</file>
+    </qresource>
+</RCC>
